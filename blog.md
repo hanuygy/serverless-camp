@@ -1,6 +1,7 @@
 # [Replace this with your project title]
 
 ## About Me
+Random info about me
 
 ## The Premise
 
