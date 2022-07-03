@@ -9,7 +9,7 @@
   "dependencies": {
     "cypress": "^8.2.0",
     "morse-code-converter": "^1.0.2",
-    "node-fetch": "^2.6.7",
+    "node-fetch": "^2.6.1",
     "parse-multipart": "^1.0.4"
   },
   "main": "index.js",
@@ -23,6 +23,5 @@
   "bugs": {
     "url": "https://github.com/hanuygy/serverless-camp/issues"
   },
-  "homepage": "https://github.com/hanuygy/serverless-camp#readme",
-  "devDependencies": {}
+  "homepage": "https://github.com/hanuygy/serverless-camp#readme"
 }
