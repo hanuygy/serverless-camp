@@ -23,5 +23,6 @@
   "bugs": {
     "url": "https://github.com/hanuygy/serverless-camp/issues"
   },
-  "homepage": "https://github.com/hanuygy/serverless-camp#readme"
+  "homepage": "https://github.com/hanuygy/serverless-camp#readme",
+  "devDependencies": {}
 }
